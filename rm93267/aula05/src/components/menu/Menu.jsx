@@ -6,6 +6,7 @@ export default function Menu(){
             <nav>
                 <ul>
                     <li><Link to={'/'}>Home</Link></li>
+                    <li><Link to={'/novoValor'}>Novo Valor</Link></li>
                 </ul>
             </nav>
         </>
